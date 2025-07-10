@@ -1,0 +1,8 @@
+name: qaqc
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - root=6.28
+  - python=3.11
+
